@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
-import numpy as np
 import json
+import numpy as np
 
 
 class NearestNeighborsFinder(ABC):

@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
-import openai
 import json
+import openai
 
 
 # データをベクトル化するモジュールのインターフェース
